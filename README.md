@@ -1,2 +1,2 @@
 # install-arch-linux-screenshots 
-Project: install-arch-linux-screenshots 
+Screenshots from my recent ArchLinux installations.
